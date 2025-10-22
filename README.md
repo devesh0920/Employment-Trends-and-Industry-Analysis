@@ -37,14 +37,4 @@ This project analyzes employment trends across various industries in multiple UK
 - Power BI Desktop installed for dashboard viewing and modification.
 - Access to the employment data files in CSV or Excel format.
 
-### Installation
-1. Clone the repository:
-
-
- 
-
- 
-
-Link - https://docs.google.com/spreadsheets/d/1X_BCwEf8dLoLcwJ4KwjT-iue0ADjLImYS0qvKwfmmDE/edit?usp=sharing
-
 -	Devesh Dhyani
